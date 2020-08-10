@@ -8,6 +8,8 @@ Nameless version 2.0.0 is currently in development and the source can be viewed 
 
 NamelessMC is a free, easy to use & powerful website software for your Minecraft server, which includes a large range of features.
 
+[![Run on Repl.it](https://repl.it/badge/github/ruperrt/Nameless)](https://repl.it/github/ruperrt/Nameless)
+
 Version 1.0.21 features:
 
 - Template and theme system
